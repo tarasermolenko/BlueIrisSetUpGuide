@@ -1,0 +1,2 @@
+# BlueIrisSetUpGuide
+Documenting my build
