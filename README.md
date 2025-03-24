@@ -1,10 +1,12 @@
 # BlueIrisSetUpGuide
 
-
+This is a documentation of how I set up a home security sytem
 
 
 ## Parts Used:
-3 x 1080p cameras 
+
+3 x 1080p cameras:
+
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/camera.jpeg" alt="drawing" width="200"/>
 
 3 x boxes
