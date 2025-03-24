@@ -2,12 +2,11 @@
 
 This is a documentation of how I set up a home security sytem
 
-this set up assumes you have proper ethernet cable access to where you want to place your cameras.
 
 
 ## Parts Used:
 
-3 x 1080p cameras:
+3 x 1080p poe cameras:
 
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/camera.jpeg" alt="drawing" width="200"/>
 
