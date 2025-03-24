@@ -2,6 +2,8 @@
 
 This is a documentation of how I set up a home security sytem
 
+this set up assumes you have proper ethernet cable access to where you want to place your cameras.
+
 
 ## Parts Used:
 
