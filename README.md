@@ -1,8 +1,9 @@
 # BlueIrisSetUpGuide
-Documenting my build
 
 
-Parts:
+
+
+## Parts Used:
 3 x 1080p cameras 
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/camera.jpeg" alt="drawing" width="200"/>
 
