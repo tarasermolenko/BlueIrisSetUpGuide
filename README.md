@@ -1,6 +1,9 @@
 # BlueIris Set Up Guide
 
-This is a documentation of how I set up a home security sytem
+This is documentation of how I set up a home security systems.
+
+## Use Case:
+2-3 1080p cameras at 15 FPS, live play back, object/motion detection and phone app.
 
 
 ## Parts Used:
