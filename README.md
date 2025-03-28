@@ -16,3 +16,8 @@ This is a documentation of how I set up a home security sytem
 1 x 4 port poe swtich
 
 1 x Dell Optiplex 3020
+
+
+## Softare Used:
+
+Blue Iris
