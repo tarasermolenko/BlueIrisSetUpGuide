@@ -3,7 +3,6 @@
 This is a documentation of how I set up a home security sytem
 
 
-
 ## Parts Used:
 
 3 x 1080p poe cameras:
@@ -16,4 +15,4 @@ This is a documentation of how I set up a home security sytem
 
 1 x 4 port poe swtich
 
-
+1 x Dell Optiplex 3020
