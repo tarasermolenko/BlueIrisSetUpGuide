@@ -18,6 +18,10 @@ This is a documentation of how I set up a home security sytem
 1 x Dell Optiplex 3020
 
 
-## Softare Used:
+## Software Used:
 
 Blue Iris
+
+
+
+## Set Up Process:
