@@ -12,11 +12,13 @@ This is documentation of how I set up a home security systems.
 
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/camera.jpeg" alt="drawing" width="200"/>
 
+3 x 720p poe cameras:
+
 3 x boxes (optional for mounting)
 
 3 x poe adapters 
 
-1 x 4 port poe swtich
+1 x 8 port poe swtich
 
 1 x Dell Optiplex 3020
 
