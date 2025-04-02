@@ -3,7 +3,7 @@
 This is documentation of how I set up a home security systems.
 
 ## Use Case:
-2-3 1080p cameras at 15 FPS, live play back, object/motion detection and phone app.
+6 1080p/720p cameras at 15-30 FPS, live play back, object/motion detection and phone app.
 
 
 ## Parts Used:
