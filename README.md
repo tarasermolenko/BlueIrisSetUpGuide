@@ -13,6 +13,7 @@ This is documentation of how I set up a home security systems.
 3 x 720p poe cameras:
 
 3 x boxes (optional for mounting)
+
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/camera.jpeg" alt="drawing" width="200"/>
 
 3 x poe adapters 
