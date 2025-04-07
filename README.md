@@ -30,3 +30,10 @@ Blue Iris
 
 
 ## Set Up Process:
+
+
+
+### Connecting Cameras:
+
+
+
