@@ -35,5 +35,7 @@ Blue Iris
 
 ## Connecting Cameras:
 
+used wireshark
+https://www.youtube.com/watch?v=V-KK36TRyaA
 
 
