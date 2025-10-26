@@ -26,7 +26,7 @@ This is documentation of how I set up a home security systems.
 ## Software Used:
 
 Blue Iris
-
+- make sure to enable run as a service
 
 
 ## Set Up Process:
