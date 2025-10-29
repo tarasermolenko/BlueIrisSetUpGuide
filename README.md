@@ -1,4 +1,4 @@
-# BlueIris Set Up Guide
+# BlueIris Set Up Guide (In progress)
 
 This is documentation of how I set up a home security systems.
 
