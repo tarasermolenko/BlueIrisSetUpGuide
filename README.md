@@ -34,6 +34,9 @@ Blue Iris
 used wireshark
 https://www.youtube.com/watch?v=V-KK36TRyaA
 
+ONVIF
+set port to 80
+
 If have managed switch can just log into that and compare mac address of device
 
 
