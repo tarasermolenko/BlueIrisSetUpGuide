@@ -34,7 +34,7 @@ Blue Iris
 used wireshark
 https://www.youtube.com/watch?v=V-KK36TRyaA
 
-If have managed switch can just log into that and comprae mac address of device
+If have managed switch can just log into that and compare mac address of device
 
 
 ## Mounting:
