@@ -36,8 +36,8 @@ https://www.youtube.com/watch?v=V-KK36TRyaA
 
 If have managed switch can just log into that and compare mac address of device
 
-In blue iris
-set port to 80
+In blue iris 
+set port to 80 when connecting camera (if getting not found error but ip addr work this is often the issue)
 
 ## Mounting:
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/CamExample1.JPG" alt="drawing" width="200"/>
