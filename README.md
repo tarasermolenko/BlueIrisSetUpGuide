@@ -36,3 +36,8 @@ https://www.youtube.com/watch?v=V-KK36TRyaA
 
 If have managed switch can just log into that and comprae mac address of device
 
+
+## Mounting:
+<img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/CamExample1.JPG.jpeg" alt="drawing" width="200"/>
+
+<img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/CamExample2.JPG.jpeg" alt="drawing" width="200"/>
