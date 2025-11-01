@@ -34,11 +34,10 @@ Blue Iris
 used wireshark
 https://www.youtube.com/watch?v=V-KK36TRyaA
 
-ONVIF
-set port to 80
-
 If have managed switch can just log into that and compare mac address of device
 
+In blue iris
+set port to 80
 
 ## Mounting:
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/CamExample1.JPG" alt="drawing" width="200"/>
