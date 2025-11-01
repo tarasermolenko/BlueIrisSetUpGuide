@@ -6,7 +6,7 @@
 
 ## Parts Needed:
 
-poe cameras:
+poe cameras
 
 boxes (optional for mounting)
 
