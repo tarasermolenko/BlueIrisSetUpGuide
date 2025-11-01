@@ -12,7 +12,7 @@ boxes (optional for mounting)
 
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/camera.jpeg" alt="drawing" width="200"/>
 
-poe adapters 
+female netowrk cable adapters (make sure to find out if your wiring is A or B)
 
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/femaleadapter.jpg" alt="drawing" width="200"/>
 
