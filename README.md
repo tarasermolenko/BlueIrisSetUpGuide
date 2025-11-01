@@ -14,7 +14,7 @@ boxes (optional for mounting)
 
 poe adapters 
 
-<img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/femaleadapter.jpeg" alt="drawing" width="200"/>
+<img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/femaleadapter.jpg" alt="drawing" width="200"/>
 
 
 poe swtich
