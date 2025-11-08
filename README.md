@@ -6,7 +6,7 @@
 
 ## Parts Needed:
 
-###poe cameras
+### poe cameras
 Recommended: ONVIF-compatible cameras (Blue Iris works best with ONVIF)
 
 
@@ -23,7 +23,7 @@ Screws, anchors, waterproof grommets
 
 poe swtich
 
-###Workstation
+### Workstation
 Dell Optiplex 3020 or similar
 
 SSD for OS + Blue Iris database (HUGE performance difference)
@@ -45,24 +45,6 @@ Keeps cameras working even after logoff or reboot
 
 Intel QuickSync driver (for hardware-accelerated video decoding)
 VLC (helps test RTSP streams)
-
-## Physical Setup:
-Mount each camera at desired location
-
-Avoid pointing at glass
-
-Avoid full direct sun
-
-Don’t mount too high—8–12 ft gives best face capture
-
-Run Ethernet from each camera to PoE switch or patch panel
-
-Plug PoE switch uplink port into router
-
-Connect the Blue Iris PC to same network
-
-Once cameras receive power, they will request DHCP and appear on your network
-
 
 ## Connecting Cameras:
 
@@ -107,6 +89,27 @@ In blue iris
 set port to 80 when connecting camera (if getting not found error but ip addr work this is often the issue)
 
 ## Mounting:
+
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/CamExample1.JPG" alt="drawing" width="200"/>
 
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/CamExample2.JPG" alt="drawing" width="200"/>
+
+
+## storage:
+In Camera Settings → Record tab
+
+Select: “Continuous + Alerts” OR “Motion-based recording”
+
+Folder locations:
+
+New folder = SSD (fast access)
+
+Stored folder = HDD (long-term storage)
+
+Recommended storage setup:
+
+SSD for db + immediate recordings
+
+HDD for archive footage
+
+In Blue Iris Settings → Clips & archiving, set automatic move from SSD to HDD
