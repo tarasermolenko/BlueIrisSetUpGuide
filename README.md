@@ -6,38 +6,102 @@
 
 ## Parts Needed:
 
-poe cameras
+###poe cameras
+Recommended: ONVIF-compatible cameras (Blue Iris works best with ONVIF)
 
-boxes (optional for mounting)
+
+### mounting hardware
+Outdoor junction boxes (optional but protects connections)
+Screws, anchors, waterproof grommets
 
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/camera.jpeg" alt="drawing" width="200"/>
 
-female netowrk cable adapters (make sure to find out if your wiring is A or B)
+###female netowrk cable adapters (make sure to find out if your wiring is A or B)
 
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/femaleadapter.jpg" alt="drawing" width="200"/>
 
 
 poe swtich
 
-Workstation
+###Workstation
+Dell Optiplex 3020 or similar
+
+SSD for OS + Blue Iris database (HUGE performance difference)
+
+Large HDD for video storage (2–4TB recommended)
 
 
 ## Software Used:
 
 Blue Iris
-- make sure to enable run as a service
+Install normally
+
 
 
 ## Set Up Process:
+After installation: enable “Run as a Service”
+Prevents UI crashes from stopping recording
+Keeps cameras working even after logoff or reboot
 
+Intel QuickSync driver (for hardware-accelerated video decoding)
+VLC (helps test RTSP streams)
+
+## Physical Setup:
+Mount each camera at desired location
+
+Avoid pointing at glass
+
+Avoid full direct sun
+
+Don’t mount too high—8–12 ft gives best face capture
+
+Run Ethernet from each camera to PoE switch or patch panel
+
+Plug PoE switch uplink port into router
+
+Connect the Blue Iris PC to same network
+
+Once cameras receive power, they will request DHCP and appear on your network
 
 
 ## Connecting Cameras:
 
-used wireshark
+Option 1 – Managed PoE Switch
+
+Log into switch web interface
+
+Look at Connected Devices
+
+Match MAC addresses with camera labels
+
+Option 2 – Wireshark (for unmanaged switches)
+
+Filter ARP packets:
+arp
+
+Turn each camera on one-at-a-time; IP will show
+
 https://www.youtube.com/watch?v=V-KK36TRyaA
 
-If have managed switch can just log into that and compare mac address of device
+Option 3 – Router Device List
+
+Most home routers show connected IP/MAC addresses
+
+## Configure Cameras:
+Access each camera in a browser:
+http://CAMERA_IP
+
+Log in with default credentials (change password!)
+
+Set:
+
+Static IP (recommended)
+
+Correct timezone
+
+Disable camera-side motion detection (Blue Iris will handle it)
+
+Make sure RTSP/ONVIF is enabled
 
 In blue iris 
 set port to 80 when connecting camera (if getting not found error but ip addr work this is often the issue)
