@@ -16,7 +16,7 @@ Screws, anchors, waterproof grommets
 
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/camera.jpeg" alt="drawing" width="200"/>
 
-###female netowrk cable adapters (make sure to find out if your wiring is A or B)
+female netowrk cable adapters (make sure to find out if your wiring is A or B)
 
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/femaleadapter.jpg" alt="drawing" width="200"/>
 
