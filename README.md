@@ -80,3 +80,8 @@ Could be faulty drives or allocated to much of the drive.
 
 
 ## Stream and Recording Quality:
+
+
+## WebStream:
+In setting set it to not time out if you want to leave it up on a monitor
+
