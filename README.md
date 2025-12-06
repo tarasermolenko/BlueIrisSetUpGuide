@@ -76,4 +76,4 @@ In Camera Settings → Record tab
 
 Select: “Continuous"
 
-
+<img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/overallocated.png" alt="screenshot" width="200"/>
