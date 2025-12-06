@@ -77,3 +77,6 @@ Select: “Continuous"
 Use these arrows to check which drive causing issue and how much space.
 Could be faulty drives or allocated to much of the drive.
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/overallocated.png" alt="screenshot" width="200"/>
+
+
+## Stream and Recording Quality:
