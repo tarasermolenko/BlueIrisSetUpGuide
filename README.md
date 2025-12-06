@@ -1,13 +1,11 @@
 # BlueIris Set Up Guide & Notes
 
-## Use Case:
-6 1080p/720p cameras at 15-30 FPS, live play back, object/motion detection
-
+## Tested System:
+6 1080p/720p cameras at 15-30 FPS on DEll Optiplex 3020 i7, live play back, object/motion detection
 
 ## Parts Needed:
-Workstation something atleast like DEll Optiplex 3020 i7 or similar
-  SSD for OS + Blue Iris database (HUGE performance difference)
-  Large HDD for video storage (2–4TB recommended)
+SSD for OS + Blue Iris database
+Large HDD for video storage (2TB min recommended)
 
 ONVIF-compatible cameras (Blue Iris works best with ONVIF)
 
