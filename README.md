@@ -1,4 +1,4 @@
-# BlueIris Set Up Guide
+# BlueIris Set Up Guide & Notes
 
 ## Use Case:
 6 1080p/720p cameras at 15-30 FPS, live play back, object/motion detection
