@@ -70,7 +70,7 @@ In blue iris
 set port to 80 when connecting camera (if getting not found error but ip addr work this is often the issue)
 
 
-## storage:
+## Storage:
 In Camera Settings → Record tab
 
 Select: “Continuous + Alerts” OR “Motion-based recording”
