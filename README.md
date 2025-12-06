@@ -53,6 +53,8 @@ Option 3 – Router Device List
 
 Most home routers show connected IP/MAC addresses
 
+Recommended: Set a static IP
+
 ## Configure Cameras:
 Access each camera in a browser:
 http://CAMERA_IP
