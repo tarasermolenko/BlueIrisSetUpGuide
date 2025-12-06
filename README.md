@@ -55,21 +55,19 @@ Most home routers show connected IP/MAC addresses
 
 Recommended: Set a static IP
 
-## Configure Cameras:
-Access each camera in a browser:
-http://CAMERA_IP
+## Configuring Cameras:
+Access each camera in a browser: http://CAMERA_IP
 
-Log in with default credentials (change password!)
+Log in with default credentials usually default to admin
 
 Correct timezone
 
-Disable camera-side motion detection (Blue Iris will handle it)
+Disable camera-side motion detection
 
 Make sure RTSP/ONVIF is enabled
 
 In blue iris 
 set port to 80 when connecting camera (if getting not found error but ip addr work this is often the issue)
-
 
 ## Storage:
 In Camera Settings → Record tab
