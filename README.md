@@ -76,16 +76,4 @@ In Camera Settings → Record tab
 
 Select: “Continuous"
 
-Folder locations:
 
-New folder = SSD (fast access)
-
-Stored folder = HDD (long-term storage)
-
-Recommended storage setup:
-
-SSD for db + immediate recordings
-
-HDD for archive footage
-
-In Blue Iris Settings → Clips & archiving, set automatic move from SSD to HDD
