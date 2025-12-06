@@ -5,6 +5,7 @@
 
 ## Parts Needed:
 SSD for OS + Blue Iris database
+
 Large HDD for video storage (2TB min recommended)
 
 ONVIF-compatible cameras (Blue Iris works best with ONVIF)
