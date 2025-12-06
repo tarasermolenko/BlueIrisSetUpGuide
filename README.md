@@ -13,11 +13,11 @@ ONVIF-compatible cameras (Blue Iris works best with ONVIF)
 
 Outdoor junction boxes (optional but protects connections)
 
-poe swtich or injector
+POE swtich or injector
 
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/camera.jpeg" alt="drawing" width="200"/>
 
-female netowrk cable adapters (make sure to find out if your wiring is A or B)
+Female netowrk cable adapters (make sure to find out if your wiring is A or B)
 
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/femaleadapter.jpg" alt="drawing" width="200"/>
 
