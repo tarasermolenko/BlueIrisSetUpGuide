@@ -10,11 +10,11 @@ Large HDD for video storage (2TB min recommended)
 
 ONVIF-compatible cameras (Blue Iris works best with ONVIF)
 
+<img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/camera.jpeg" alt="drawing" width="200"/>
+
 Outdoor junction boxes (optional but protects connections)
 
 POE swtich or injector
-
-<img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/camera.jpeg" alt="drawing" width="200"/>
 
 Female netowrk cable adapters (make sure to find out if your wiring is A or B)
 
