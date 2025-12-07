@@ -69,6 +69,8 @@ Make sure RTSP/ONVIF is enabled
 In blue iris 
 set port to 80 when connecting camera (if getting not found error but ip addr work this is often the issue)
 
+troubleshooting: could be duplicate address issue
+
 ## Storage:
 In Camera Settings → Record tab
 
