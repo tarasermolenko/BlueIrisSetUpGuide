@@ -1,7 +1,7 @@
 # BlueIris Set Up Guide & Notes
 
 ## Tested System:
-6 1080p/720p cameras at 15-30 FPS on DEll Optiplex 3020 i7, live play back, object/motion detection
+6 1080p/720p cameras at 15-30 FPS on DELL Optiplex 3020 i7, live play back, object/motion detection
 
 ## Parts Needed:
 SSD for OS + Blue Iris database
@@ -79,6 +79,7 @@ Select: “Continuous"
 Use these arrows to check which drive causing issue and how much space.
 Could be faulty drives or allocated to much of the drive.
 Check integrity could just be that the drive is cooked.
+Try allocating less of the drive.
 
 <img src="https://github.com/tarasermolenko/BlueIrisSetUpGuide/blob/main/overallocated.png" alt="screenshot" width="200"/>
 
