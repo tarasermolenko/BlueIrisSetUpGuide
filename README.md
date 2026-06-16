@@ -85,7 +85,7 @@ Try allocating less of the drive.
 
 
 ## Stream and Recording Quality:
-If seeing degreaded stream quality, check how many concurent channels are being used/supported
+If seeing low stream quality, check how many concurent channels are being used/supported
 
 ## WebStream:
 In setting set it to not time out if you want to leave it up on a monitor
